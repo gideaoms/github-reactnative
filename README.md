@@ -5,3 +5,5 @@ Este repositório é um projeto que tem como objetivo adicionar projetos do Gith
 ### Tecnologias
 
 - React Native
+
+![Alt Printscreen](view.png?raw=true "Github")
